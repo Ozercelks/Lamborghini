@@ -1,0 +1,16 @@
+body {
+    font-family: 'Times New Roman', Times, serif; /* Yazı tipi ailesi */
+    font-size: 13px; /* <p></p> etiketindeki ana yazının boyutu */
+    background-color: #000000; /* Web sayfasının arka plan rengi */
+    color: #f7f5f5; /* Metin rengi */
+}
+
+h1 {
+    color: #d4810b; /* Başlık rengi */
+    font-size: 24px; /* Başlık yazı tipi boyutu */
+    font-family: Georgia, serif; /* Başlıkta kullanılan yazı tipi ailesi */
+}
+
+h2 {
+    color: #c10b0b; /* Başlık rengi */
+}
